@@ -17,8 +17,7 @@
   * Pandas와 Scikit-learn을 사용하여 데이터 분석 모델 성능 올리기(Nursery Data Set)
     -  Logistic Regression, Decision Tree 기법과 Feature Engineering 사용
 - 2017 Neural Networks for Machine Learning (Coursera) 스터디
-    * (0120) Recurrent neural networks 
-    * [발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표 코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
+    * (0120) Recurrent neural networks - [발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표 코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
 <br />
 <br />
 
@@ -37,8 +36,7 @@
 - 2016-1학기 경영정보시스템 - [가천대학교 강의 평가 시스템 개선](https://www.slideshare.net/secret/f6nsA2246Wtbpx)
   * 강의평가 시스템에 대한 사용자의 요구사항을 조사하여 추가·개선할 기능 파악 및 시스템에 대한 새로운 DFD, ERD, UI 구성
 - 2016-2학기 소프트웨어공학
-  * 건강관리 앱 중 하나를 선정하여 기능, 정보 모델링 및 와이어프레임을 구축하고 분석한 내용을 바탕으로 해당 앱의 보완점을 찾아 재구성함
-  * [건강관리 앱 분석 ppt](https://www.slideshare.net/secret/JuK9xyImHJRTwE), [건강관리 앱 재구성 ppt](https://www.slideshare.net/secret/2BErC6d1sz8WsO)
+  * 건강관리 앱 중 하나를 선정하여 기능, 정보 모델링 및 와이어프레임을 구축하고 분석한 내용을 바탕으로 해당 앱의 보완점을 찾아 재구성함 - [건강관리 앱 분석 ppt](https://www.slideshare.net/secret/JuK9xyImHJRTwE), [건강관리 앱 재구성 ppt](https://www.slideshare.net/secret/2BErC6d1sz8WsO)
   
 - TA 활동
   * 2015-2학기 가천대학교 산업경영공학과 '프로그래밍 언어' TA
