@@ -6,6 +6,7 @@
 - 가천대학교 산업경영공학과 4학년 재학중
 - 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
 <br />
+<br />
 
 ## Project
 - [2015 생활코딩, 학과를 위한 웹서비스 만들기](https://github.com/hyoenju/final_dacapo "final_dacapo")
@@ -17,7 +18,7 @@
   * 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트
   * Pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Feature Engineering으로 데이터 분석 모델 성능 올리기(Nursery Data Set)
 <br />
-
+<br />
 
 ## Skills
 * Languages : Python, Web(HTML +  CSS + JavaScript + Ajax + Bootstrap), Git, Data Analysis (Pandas, Numpy, Scikit-Learn, TensorFlow)
@@ -26,7 +27,7 @@
 * Operating Systems : Ubuntu(Linux), Windows XP and Higher
 * Others : Jupyter, Jetbrains IDE(PyCharm, WebStorm), Github
 <br />
-
+<br />
 
 ## Experience
 - 2015-2학기 기술경영 - [차세대 헬스케어 시스템](https://www.slideshare.net/secret/e7HM802aP8nkaX)
@@ -39,4 +40,5 @@
   * 2015-2학기 가천대학교 산업경영공학과 '프로그래밍 언어' TA
   * 2016-1학기 가천대학교 Gachon CS50 '프로그래밍 입문 with Python' TA
   * 2016-2학기  ['K-MOOC Operation Research with Python'](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC) TA
-  <br />
+<br />
+<br />
