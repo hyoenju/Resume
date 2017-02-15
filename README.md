@@ -14,7 +14,6 @@
  * Html+CSS+Javascript, Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화하는 웹페이지를 개발함
 
 ### [data_summer_school_labs](https://github.com/hyoenju/data_summer_school_labs/blob/master/team/team_C/upgrade_percentage.ipynb)
-
  * 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트
  * Pandas와 Scikit-learn을 사용하여 Logistic Regression, Decision Tree 기법과 Feature Engineering으로 데이터 분석 모델 성능 올리기(Nursery Data Set)
 
