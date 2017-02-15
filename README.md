@@ -1,8 +1,9 @@
-# 이현주 / l67378810@gmail.com
+# Resume 
+
+[이현주](https://github.com/hyoenju) (l67378810@gmail.com, 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
 
 
 ## Project
-
 ### [2015 생활코딩, 학과를 위한 웹서비스 만들기](https://github.com/hyoenju/final_dacapo "final_dacapo") 
   * Html+CSS+Javascript, Flask(python)를 사용하여 산업경영공학과 학생들이 과제, 팀 프로젝트가 있을 경우 빈 강의실을 사용할 수 있도록 강의실 예약 시스템 페이지 개발
 ### [2015 IoT for Plant](https://github.com/hyoenju/ginseng)
