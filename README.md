@@ -1,6 +1,4 @@
-# Resume
-
-### 이현주 / l67378810@gmail.com
+# 이현주 / l67378810@gmail.com
 
 
 ## Project
