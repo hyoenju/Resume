@@ -1,7 +1,9 @@
 # Resume 
 
-[이현주](https://github.com/hyoenju) (l67378810@gmail.com, 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
-가천대학교 산업경영공학과
+- 이름 : 이현주
+- 이메일 : l67378810@gmail.com
+- 가천대학교 산업경영공학과 4학년 재학중
+- 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
 
 ## Project
 - [2015 생활코딩, 학과를 위한 웹서비스 만들기](https://github.com/hyoenju/final_dacapo "final_dacapo")
