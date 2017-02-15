@@ -8,14 +8,14 @@
 
 ## Project
 - [2015 생활코딩, 학과를 위한 웹서비스 만들기](https://github.com/hyoenju/final_dacapo "final_dacapo")
-  * Html+CSS+Javascript, Flask(python)를 사용하여 학생들이 과제나 팀 프로젝트가 있을 경우 빈 강의실을 사용할 수 있도록 웹페이지 개발
+  * Html+CSS+Javascript, Flask(python)를 사용하여 학생들이 과제나 팀 프로젝트가 있을 경우 빈 강의실을 사용할 수 있도록 웹페이지 개발
 - [2015 IoT for Plant](https://github.com/hyoenju/ginseng)
   * IoT 기술을 활용한 식물 재배 웹서비스 구축
   * Html+CSS+Javascript, Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화하는 웹페이지 개발
 - [data_summer_school_labs](https://github.com/hyoenju/data_summer_school_labs/blob/master/team/team_C/upgrade_percentage.ipynb)
   * 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트
   * Pandas와 Scikit-learn을 사용하여 데이터 분석 모델 성능 올리기(Nursery Data Set)
-     -  Logistic Regression, Decision Tree 기법과 Feature Engineering 
+     -  Logistic Regression, Decision Tree 기법과 Feature Engineering 
 <br />
 <br />
 
