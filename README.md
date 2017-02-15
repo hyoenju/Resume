@@ -1,7 +1,6 @@
 # Resume
 <br />
-- 이현주
-- l67378810@gmail.com
+- 이현주 / l67378810@gmail.com
 - 가천대학교 산업경영공학과 4학년 재학중
 - 학부생연구원 at [@TeamLab](https://github.com/TeamLab)
 <br />
