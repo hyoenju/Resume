@@ -15,12 +15,12 @@
 - [data_summer_school_labs](https://github.com/hyoenju/data_summer_school_labs/blob/master/team/team_C/upgrade_percentage.ipynb)
   * 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트
   * Pandas와 Scikit-learn을 사용하여 데이터 분석 모델 성능 올리기(Nursery Data Set)
-    -  Logistic Regression, Decision Tree 기법과 Feature Engineering 사용
+    -  Logistic Regression, Decision Tree 기법과 Feature Engineering 사용
 <br />
 <br />
 
 ## Skills
-* Languages : Python, Web(HTML + CSS + JavaScript + Bootstrap), Git, Data Analysis(Pandas, Numpy, Scikit-Learn, TensorFlow)
+* Languages : Python, Web(HTML + CSS + JavaScript + Bootstrap), Data Analysis(Pandas, Numpy, Scikit-Learn, TensorFlow), Git
 * Web Framework : Django, Flask
 * Database : MySQL, SQLite, PostreSQL, Oracle
 * Operating Systems : Ubuntu(Linux)
