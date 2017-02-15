@@ -17,7 +17,8 @@
   * Pandas와 Scikit-learn을 사용하여 데이터 분석 모델 성능 올리기(Nursery Data Set)
     -  Logistic Regression, Decision Tree 기법과 Feature Engineering 사용
 - 2017 Neural Networks for Machine Learning (Coursera) 스터디
-    * (0120) Recurrent neural networks [발표자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
+    * (0120) Recurrent neural networks 
+    * [발표자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표코드 - RNN_Basic](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
 <br />
 <br />
 
