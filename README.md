@@ -20,7 +20,7 @@
 <br />
 
 ## Skills
-* Languages : Python, Web(HTML + CSS + JavaScript + Bootstrap), Data Analysis(Pandas, Numpy, Scikit-Learn, TensorFlow), Git
+* Languages : Python, Web(HTML + CSS + JavaScript + Bootstrap), Pandas, Numpy, Scikit-Learn, TensorFlow, Git
 * Web Framework : Django, Flask
 * Database : MySQL, SQLite, PostreSQL, Oracle
 * Operating Systems : Ubuntu(Linux)
