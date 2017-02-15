@@ -16,6 +16,8 @@
   * 2016 가천 데이터 과학 여름 학교 Data Analysis 프로젝트
   * Pandas와 Scikit-learn을 사용하여 데이터 분석 모델 성능 올리기(Nursery Data Set)
     -  Logistic Regression, Decision Tree 기법과 Feature Engineering 사용
+- 2017 Neural Networks for Machine Learning (Coursera) 스터디
+    * (0120) Recurrent neural networks [발표자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
 <br />
 <br />
 
@@ -33,9 +35,15 @@
   * 차세대 헬스케어 시스템을 주제로 바이오 센서에 대한 기술 특허를 조사, Fitbit의 혈당 센서에 대한 향후 기술 전략 수립
 - 2016-1학기 경영정보시스템 - [가천대학교 강의 평가 시스템 개선](https://www.slideshare.net/secret/f6nsA2246Wtbpx)
   * 강의평가 시스템에 대한 사용자의 요구사항을 조사하여 추가·개선할 기능 파악 및 시스템에 대한 새로운 DFD, ERD, UI 구성
+- 2016-2학기 소프트웨어공학 
+  * [건강관리 앱 분석](https://www.slideshare.net/secret/JuK9xyImHJRTwE)
+  * [건강관리 앱 재구성](https://www.slideshare.net/secret/2BErC6d1sz8WsO)
+  * 건강관리 앱 중 하나를 선정하여 기능, 정보 모델링 및 와이어프레임을 구축하고 분석한 내용을 바탕으로 해당 앱의 보완점을 찾아 재구성함
+  
 - TA 활동
   * 2015-2학기 가천대학교 산업경영공학과 '프로그래밍 언어' TA
   * 2016-1학기 가천대학교 Gachon CS50 '프로그래밍 입문 with Python' TA
-  * 2016-2학기  ['K-MOOC Operation Research with Python'](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC) TA
+  * 2016-2학기 가천대학교 산업경영공학과 '기술경영' TA
+  * 2016-2학기  ['K-MOOC Operation Research with Python'](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC) TA
 <br />
 <br />
