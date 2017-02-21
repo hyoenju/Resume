@@ -27,7 +27,7 @@
 ## Project
 - [2015 생활코딩, 학과를 위한 웹서비스 만들기](https://github.com/hyoenju/final_dacapo "final_dacapo")
   * 빈 강의실을 예약하면 예약한 강의실을 일정 시간동안 사용할 수 있는 시스템을 Flask(python)를 사용하여 개발
-- [2015 IoT for Plant](https://github.com/hyoenju/ginseng)
+- 2015 IoT for Plant - [프로젝트 코드](https://github.com/hyoenju/ginseng), [산업공학 프로젝트 경진대회 제출본](https://www.slideshare.net/secret/rsWe1IwZj9nIR)
   * IoT 기술을 활용한 식물 재배 웹서비스 구축
   * Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화
   * 2015 대한산업공학회 한국 대학생 산업공학 프로젝트 경진대회 동상 수상
@@ -42,11 +42,11 @@
 - 2016-2학기 소프트웨어공학 - 건강관리 앱 분석 및 설계 ( [분석 ppt](https://www.slideshare.net/secret/JuK9xyImHJRTwE), [재구성 ppt](https://www.slideshare.net/secret/2BErC6d1sz8WsO) )
   * 건강관리 앱 중 하나를 선정하여 기능·정보 모델링, 와이어프레임 구축 후 분석 내용을 바탕으로 보완점 찾아 재구성
 - 2016 가천대학교 해커톤 - 가천헌책방 [아이디어톤 발표 자료](https://www.slideshare.net/secret/M1OLTHsruUCgev)
- , [해커톤 발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [개발 코드](https://github.com/jinongkim/gachon-hack-book.git)
+ , [해커톤 발표 자료](https://www.slideshare.net/secret/sXC0EIB9BnfC5D), [개발 코드](https://github.com/jinongkim/gachon-hack-book.git)
   * 가천대학교의 전공 및 교양 중고도서 판매를 위한 웹페이지 개발
   * 우수상 수상 
 - 2017 Neural Networks for Machine Learning (Coursera) 스터디
-  * (0120) Recurrent neural networks - [발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표 코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
+  * (0120) Recurrent neural networks - [발표 자료](https://www.slideshare.net/secret/NFANdnBn2Jjog), [발표 코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
 <br />
 <br />
 
