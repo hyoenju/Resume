@@ -42,7 +42,7 @@
 - 2016-2학기 소프트웨어공학 - 건강관리 앱 분석 및 설계 ( [분석 ppt](https://www.slideshare.net/secret/JuK9xyImHJRTwE), [재구성 ppt](https://www.slideshare.net/secret/2BErC6d1sz8WsO) )
   * 건강관리 앱 중 하나를 선정하여 기능·정보 모델링, 와이어프레임 구축 후 분석 내용을 바탕으로 보완점 찾아 재구성
 - 2016 가천대학교 해커톤 - 가천헌책방 [아이디어톤 발표 자료](https://www.slideshare.net/secret/M1OLTHsruUCgev)
-  , [해커톤 발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [개발 코드](https://github.com/jinongkim/gachon-hack-book.git)
+ , [해커톤 발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [개발 코드](https://github.com/jinongkim/gachon-hack-book.git)
   * 가천대학교의 전공 및 교양 중고도서 판매를 위한 웹페이지 개발
   * 우수상 수상 
 - 2017 Neural Networks for Machine Learning (Coursera) 스터디
