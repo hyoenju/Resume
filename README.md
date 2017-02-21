@@ -16,7 +16,7 @@
 ## Skills
 * Languages : Python, Java, C
 * Data Analysis : Pandas, Numpy, Scikit-Learn, TensorFlow
-* Web : HTM, CSS, JavaScript, JQuery, Ajax, Bootstrap, Django, Flask
+* Web : HTML, CSS, JavaScript, JQuery, Ajax, Bootstrap, Django, Flask
 * Database : MySQL, SQLite, PostreSQL, Oracle
 * Operating Systems : Ubuntu(Linux)
 * Others : Jupyter, Jetbrains IDE(PyCharm, WebStorm), Git, Github
