@@ -41,7 +41,7 @@
 - 2016-1학기 경영정보시스템 - [가천대학교 강의 평가 시스템 개선](https://www.slideshare.net/secret/f6nsA2246Wtbpx)
   * 강의평가 시스템에 대한 사용자의 요구사항을 조사하여 추가·개선 기능 파악 및 새로운 DFD, ERD, UI 구성
 - 2016-2학기 소프트웨어공학 - 건강관리 앱 분석 및 설계 ( [분석 ppt](https://www.slideshare.net/secret/JuK9xyImHJRTwE), [재구성 ppt](https://www.slideshare.net/secret/2BErC6d1sz8WsO) )
-  * 건강관리 앱 중 하나를 선정하여 기능, 정보 모델링, 와이어프레임 구축 후 분석 내용을 바탕으로 앱의 보완점을 찾아 재구성
+  * 건강관리 앱 중 하나를 선정하여 기능, 정보 모델링, 와이어프레임 구축 후 분석 내용을 바탕으로 보완점을 찾아 재구성
 - 2017 Neural Networks for Machine Learning (Coursera) 스터디
   * (0120) Recurrent neural networks - [발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표 코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
 <br />
