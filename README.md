@@ -44,7 +44,7 @@
 - 2016 가천대학교 해커톤 - 가천헌책방 [아이디어톤 발표 자료](https://www.slideshare.net/secret/M1OLTHsruUCgev)
   , [해커톤 발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [개발 코드](https://github.com/jinongkim/gachon-hack-book.git)
   * 가천대학교의 전공 및 교양 중고도서 판매를 위한 웹페이지 개발
-  * 우수상 수상 
+  * 우수상 수상 
 - 2017 Neural Networks for Machine Learning (Coursera) 스터디
   * (0120) Recurrent neural networks - [발표 자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표 코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb)
 <br />
