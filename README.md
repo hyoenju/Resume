@@ -27,7 +27,7 @@
 ## Project
 - [2015 생활코딩, 학과를 위한 웹서비스 만들기](https://github.com/hyoenju/final_dacapo "final_dacapo")
   * 빈 강의실을 예약하면 예약한 강의실을 일정 시간동안 사용할 수 있는 시스템을 Flask(python)를 사용하여 개발
-- 2015 IoT for Plant - [프로젝트 코드](https://github.com/hyoenju/ginseng), [산업공학 프로젝트 경진대회 제출본](https://www.slideshare.net/secret/rsWe1IwZj9nIR)
+- 2015 IoT for Plant - [프로젝트 코드](https://github.com/hyoenju/ginseng), [경진대회 발표 ppt](https://www.slideshare.net/secret/rsWe1IwZj9nIR)
   * IoT 기술을 활용한 식물 재배 웹서비스 구축
   * Django(python), D3.js를 사용하여 식물 재배 환경을 센싱한 데이터를 실시간으로 시각화
   * 2015 대한산업공학회 한국 대학생 산업공학 프로젝트 경진대회 동상 수상
