@@ -7,14 +7,14 @@
 <br />
 
 ## Interest
- Data Science, Web
+* Data Analysis, Web
 <br />
 <br />
 
 
 ## Skills
 * Languages : Python
-* Data Mining : Pandas, Numpy, Scikit-Learn, TensorFlow
+* Data Analysis : Pandas, Numpy, Scikit-Learn, TensorFlow
 * Web : HTM, CSS, JavaScript, JQuery, Ajax, Bootstrap, Django, Flask
 * Database : MySQL, SQLite, PostreSQL, Oracle
 * Operating Systems : Ubuntu(Linux)
